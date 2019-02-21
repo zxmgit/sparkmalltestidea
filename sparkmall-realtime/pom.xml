@@ -11,6 +11,8 @@
 
     <artifactId>sparkmall-realtime</artifactId>
 
+
+
     <dependencies>
         <dependency>
             <groupId>com.zxm.sparkmall</groupId>
